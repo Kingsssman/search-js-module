@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/language-JavaScript-yellow)
 ![](https://img.shields.io/badge/version-ES6+-yellow)
 ![](https://img.shields.io/badge/html-HTML5-red)
-![](https://img.shields.io/badge/css-CSS3-blue)
+![](https://img.shields.io/badge/css-CSS3-blue) </br>
 This module is a improvment of my previous databased-js-module. (Improvment:  Search movie by title)
 
 # Preview:
